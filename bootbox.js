@@ -25,7 +25,7 @@
 }(this, function init($, undefined) {
 
   "use strict";
-
+  $ = window.$;
   // the base DOM structure needed to create a modal
   var templates = {
     dialog:

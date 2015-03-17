@@ -1,7 +1,7 @@
 {
   "name": "bootbox",
   "version": "4.4.0",
-  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using the Bootstrap framework",
+  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using the Bootstrap framework. Forked from original only for a private fix",
   "directories": {
     "test": "tests"
   },
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/makeusabrew/bootbox.git"
+    "url": "git://github.com/marceloampuerop6/bootbox.git"
   },
   "author": "Nick Payne <nick@kurai.co.uk>",
   "license": "MIT",
@@ -31,5 +31,7 @@
     "sinon-chai": "~2.4.0",
     "karma-chai": "0.0.1",
     "grunt-karma": "~0.6.2"
-  }
+  },
+  "private" : true
+
 }

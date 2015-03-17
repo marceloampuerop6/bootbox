@@ -1,5 +1,7 @@
 # Bootbox - Bootstrap powered alert, confirm and flexible dialog boxes
 
+This is a fork just for solving a particular problem with bower. Please use original source.
+
 Please see http://bootboxjs.com for full usage instructions, or head over to http://paynedigital.com/bootbox for
 the original writeup about the project.
 
